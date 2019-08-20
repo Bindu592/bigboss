@@ -1,1 +1,3 @@
-this is the first file
+modifications done in staging
+
+this is the second line
